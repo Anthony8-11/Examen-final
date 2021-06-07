@@ -1,0 +1,5 @@
+{
+    "BOT_TOKEN": "ODQ5NDk2MjU1NzA5MDUyOTM4.YLcBCg.z4XLdVObAGwwKxZMCT2APH2iZnQ",
+    "MONGODB": "mongodb://localhost:27017/discordbot",
+    "PREFIX": "!"
+}
